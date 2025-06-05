@@ -115,6 +115,4 @@ console.log("끊임없이 발전하는 개발자가 되겠습니다! 🚀");
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JWMin556&color=70a5fd&style=for-the-badge&label=VISITORS)
 
-**⭐ From [민중원](https://github.com/JWMin556) with 💜**
-
 </div>
