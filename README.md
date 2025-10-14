@@ -61,35 +61,15 @@
 
 </div>
 
-### 🏆 **GitHub Achievements**
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JWMin556&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
-### 📈 **Contribution Activity**
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JWMin556&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true)
-
-</div>
-
 ---
 
-## 🚀 **What I'm Working On**
+## ✍️ **My study velog**
 
 <div align="center">
 
-```javascript
-const currentFocus = {
-    learning: ["Spring Boot Advanced", "React Hooks", "AWS Services"],
-    building: ["Full Stack Web Applications", "RESTful APIs"],
-    goals: ["Clean Code", "Best Practices", "Team Collaboration"]
-};
-
-console.log("끊임없이 발전하는 개발자가 되겠습니다! 🚀");
-```
+<a href="https://velog.io/@gtj556/posts">
+  <img src="https://velog-github-badge.vercel.app/badge?name=JWMin&theme=tokyonight" alt="Velog Badge"/>
+</a>
 
 </div>
 
