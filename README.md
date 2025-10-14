@@ -64,15 +64,9 @@
 ---
 
 ## ✍️ **My study velog**
-
 <div align="center">
-
-<a href="https://velog.io/@gtj556/posts">
-  <img src="https://velog-github-badge.vercel.app/badge?name=JWMin&theme=tokyonight" alt="Velog Badge"/>
-</a>
-
+    <img src="https://velog-readme-stats.vercel.app/api?name=gtj556" width=40% />
 </div>
-
 ---
 
 ## 📫 **Let's Connect & Collaborate**
