@@ -67,6 +67,11 @@
 <div align="center">
     <img src="https://velog-readme-stats.vercel.app/api?name=gtj556" width=40% />
 </div>
+
+<div align="center">
+    👉🏻 <a href="https://velog.io/@gtj556/posts">velog 바로가기</a>
+</div>
+
 ---
 
 ## 📫 **Let's Connect & Collaborate**
