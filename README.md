@@ -10,7 +10,7 @@
 
 ## 🛠️ **Tech Stack**
 
-<div align="center">
+<div>
 
 ### 🎨 **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,9 +49,16 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JWMin556&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWMin556&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=JWMin556&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWMin556&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -64,12 +71,8 @@
 ---
 
 ## ✍️ **My study velog**
-<div align="center">
+<div>
     <img src="https://velog-readme-stats.vercel.app/api?name=gtj556" width=40% />
-</div>
-
-<div align="center">
-    👉🏻 <a href="https://velog.io/@gtj556/posts">velog 바로가기</a>
 </div>
 
 ---
