@@ -39,23 +39,9 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JWMin556&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWMin556&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JWMin556&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JWMin556&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JWMin556&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JWMin556&theme=tokyonight" width="45%"/>
 </div>
 
 ---
@@ -67,25 +53,12 @@
 
 ---
 
-## 📫 **Let's Connect & Collaborate**
+## 📫 **My Email**
 
-<div align="center">
+<div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:min981626@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JWMin556)
 
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 **"꾸준함이 재능을 이긴다"** 
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=JWMin556&color=70a5fd&style=for-the-badge&label=VISITORS)
-
-</div>
