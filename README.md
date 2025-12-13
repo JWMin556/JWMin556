@@ -39,10 +39,17 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JWMin556&theme=tokyonight" width="100%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JWMin556&theme=tokyonight" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JWMin556&theme=tokyonight" width="45%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JWMin556&show_icons=true&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWMin556&layout=compact&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
+  <br/>
 </div>
+
 
 ---
 
