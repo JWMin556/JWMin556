@@ -39,17 +39,9 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JWMin556&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWMin556&layout=compact&theme=tokyonight&hide_border=true"
-    width="49%"
-  />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWMin556&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JWMin556&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 </div>
-
 
 ---
 
