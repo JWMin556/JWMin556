@@ -30,6 +30,12 @@
 
 ---
 
+## 💻 JWMin556's PROJECT 💻
+
+| 기간 | 설명 | 언어 | 포지션 | 레포 링크 |
+|------|------|------|---------|----------|
+| 2025.10 - 2026.02 | 실종 반려동물 찾기와 유기동물 입양 서비스 🦮 | Spring-Boot | BE-Member | [Repo](https://github.com/TetoAndEggens/SeeYouAgain-BE) |
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
