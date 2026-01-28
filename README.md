@@ -34,7 +34,7 @@
 
 | 기간 | 설명 | 언어 | 포지션 | 레포 링크 |
 |------|------|------|---------|----------|
-| 2024.03 - 2025.12 | 알고리즘 학회 전용 웹 플랫폼 📚 | React | FE-Member | [Repo-User](https://github.com/ProjectX-Algoitzy/Algoitzy-FE) , [Repo-Admin](https://github.com/ProjectX-Algoitzy/Algoitzy-Admin-FE) |
+| 2024.03 - 2025.12 | 한국항공대학교 알고리즘 학회 전용 웹 플랫폼 📚 | React | FE-Member | [Repo-User](https://github.com/ProjectX-Algoitzy/Algoitzy-FE) , [Repo-Admin](https://github.com/ProjectX-Algoitzy/Algoitzy-Admin-FE) |
 | 2025.10 - 2026.02 | 실종 반려동물 찾기와 유기동물 입양 서비스 🦮 | Spring-Boot | BE-Member | [Repo](https://github.com/TetoAndEggens/SeeYouAgain-BE) |
 
 ## 📊 **GitHub Analytics**
