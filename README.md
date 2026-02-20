@@ -46,6 +46,13 @@
 
 ---
 
+## 🏆 **Baekjoon**
+<div align="center">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gtj556" />
+</div>
+
+---
+
 ## ✍️ **My study velog**
 <div>
     <img src="https://velog-readme-stats.vercel.app/api?name=gtj556" width=40% />
