@@ -47,7 +47,7 @@
 ---
 
 ## 🏆 **Baekjoon**
-<div align="center">
+<div>
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gtj556" />
 </div>
 
